@@ -12,10 +12,5 @@ Caso esteja se perguntando como baixar o Java JDK no Linux, eu trago um resumo b
   <h2>Primeiro, precisa entender sobre quais comandos serão necessários utilizar, e são estes:</h2>
 </div>
 
-<div align=center>
-  <img src="
-</div>
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
