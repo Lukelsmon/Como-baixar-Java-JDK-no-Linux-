@@ -37,8 +37,8 @@
 <br>
 
 <div align=center>
-   <h3>☆ Muito bem! E é este o resumo para baixar o Java JDK em seu Linux! ☆
-   </h3>
+   <h2>☆ Muito bem! E é este o resumo para baixar o Java JDK em seu Linux! ☆
+   </h2>
 </div>
 
 <br>
