@@ -26,11 +26,26 @@
 - ☞ Primeiro, dê permissão ao Terminal, digitando "sudo apt update"
 - ☞ Após isso, o Terminal vai pedir sua senha, só digitar ela e o Terminal começará a atualizar alguns packages que vão ajudar
 - ☞ Feito isto, digite "sudo apt install aptitude"
+- ```
+  (seu@usuario): sudo apt install aptitude
 - ☞ O Aptitude vai servir como um guia para você pesquisar qual versão do JDK está mais avançado para seu Linux de forma mais fácil
 - ☞ Tendo baixado o Aptitude, coloque no Terminal: "aptitude search openjdk"
-- ☞ De começo irá aparecer uma lista de várias versões do JDK provavelmente, mas, não se preocupe. Apenas procure na lista a versão que seja "openjdk-(versão)-jdk", e é recomendável que baixe uma versão atualizada.
-- ☞ Ex: openjdk-22-jdk
+- ```
+  aptitude search openjdk
+  ```
+- ☞ De começo irá aparecer uma lista de várias versões do JDK provavelmente, mas, não se preocupe. Apenas procure na lista a versão que seja "openjdk-(versão)-jdk", e é recomendável que baixe uma versão atualizada. A lista pode aparecer mais ou menos assim:
+- ```
+  p openjdk-11-dbg     - Java tempo de execução baseado em OpenJDK
+  p openjdk-11-dbg:i386     - Java tempo de execução baseado em OpenJDK
+  p openjdk-17-jdk     - OpenJDK Development Kit (JDK)
+  ...
+  ```
+- ☞ Ex: a versão mais atualizado no parágrafo acima é o "openjdk-17-jdk", então, é o mais recomendado para baixar
 - ☞ Versão escolhida? Muito bem! Agora, apenas digite "sudo apt install openjdk-(versão)-jdk.
+- ```
+  (seu@usuario)= sudo apt install openjdk-17-jdk)
+  ```
+- ☞ Lembre-se, os parágrafos acima são apenas EXEMPLOS, você mesmo que irá decidir sua versão quando colocar no Terminal!  
 
 <br>
 
