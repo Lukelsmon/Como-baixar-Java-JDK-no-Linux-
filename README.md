@@ -53,6 +53,14 @@
    𖠿 Espero que esse resumo tenha ajudado você. Estou diariamente aprendendo coisas novas de programação, Github e entre outros, então, caso algum erro aconteça, por favor, me contate pelo meu e-mail ou Instagram em meu perfil! 👍
 </p>
 
+<br>
+
+<div align="center">  
+<a href="https://www.instagram.com/lukelsmon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+
+<br>
+
 <h3>Obrigado pela paciência e até algum outro dia! 👋</h3>
 
 <br>
